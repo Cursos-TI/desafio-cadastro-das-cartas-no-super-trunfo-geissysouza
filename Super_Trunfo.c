@@ -78,7 +78,7 @@ int main(){
     PIB_per_capita1 = (float)(pib1 / populacao1); // PIB médio por pessoa CARTA 1
 
     densidade_populacional2 = (float)(populacao2 / area2); //População por km2 CARTA 2
-    PIB_per_capita1 = (float)(pib1 / populacao1); // PIB médio por pessoa CARTA 1
+    PIB_per_capita2 = (float)(pib2 / populacao2); // PIB médio por pessoa CARTA 1
 
     
     // Exibindo os resultados das Cartas 01 e 02
